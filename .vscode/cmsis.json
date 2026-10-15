@@ -1,0 +1,9 @@
+{
+    "targetSet": {
+        "Programs/Stack/Stack": {
+            "activeTargetType": "ITSboard"
+        }
+    },
+    "activeSolution": "../Programs/Stack/Stack.csolution.yml",
+    "activeTarget": "ITSboard"
+}
