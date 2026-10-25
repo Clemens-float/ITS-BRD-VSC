@@ -2,8 +2,11 @@
     "targetSet": {
         "Programs/Stack/Stack": {
             "activeTargetType": "ITSboard"
+        },
+        "Programs/AssemblytestASM/AssemblytestASM": {
+            "activeTargetType": "ITSboard_Assembly"
         }
     },
-    "activeSolution": "../Programs/Stack/Stack.csolution.yml",
-    "activeTarget": "ITSboard"
+    "activeSolution": "../Programs/AssemblytestASM/AssemblytestASM.csolution.yml",
+    "activeTarget": "ITSboard_Assembly"
 }
